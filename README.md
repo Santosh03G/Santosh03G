@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Database Performance Tuning<br>🌱 I’m currently learning AWS Cloud Computing<br>💬 Ask me about AWS Cloud Computing,Azure,Powershell,SQL Server<br>⚡ Fun fact I do Play game a lot
+🔭 I’m currently working on Database Performance Tuning<br>🌱 I’m currently learning AWS Cloud Computing<br>💬 Ask me about AWS Cloud Computing,Azure,Powershell,SQL Server<br>⚡ Fun fact I do Play games a lot
 
 
 ## 🌐 Socials:
