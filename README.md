@@ -14,11 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santosh03G&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh03G&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+# Roadmap Badge : 
+[![roadmap.sh](https://roadmap.sh/card/tall/674d32505039431075eb8a98?variant=dark)](https://roadmap.sh)
 
 ---
 
